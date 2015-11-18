@@ -6,6 +6,6 @@ Usage
 -----
 Change the dates in the file `main.py` and then run:
 
-    $ python main.py
+    $ python3 main.py
 
 The result is saved in the working directory under `playlists.csv`.
